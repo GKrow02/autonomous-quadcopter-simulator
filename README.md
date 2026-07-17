@@ -2,6 +2,10 @@
 
 A Python-based quadcopter flight simulator developed to better understand flight dynamics, control systems, and autonomous navigation. This project models a quadcopter's motion and uses PID controllers to autonomously navigate through a series of waypoints.
 
+<img width="1917" height="1137" alt="image" src="https://github.com/user-attachments/assets/70393876-91b1-41ae-91a4-c1f8e5fedd98" />
+
+
+
 ## Features
 
 - Physics-based quadcopter simulation
